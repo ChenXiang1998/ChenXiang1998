@@ -25,4 +25,10 @@
     - Chinese, English, Japanese, Russian, Korean, German
     - Python, R, Matlab, Java, C
 
+- 💬 **News, Journals and Conferences**:
+    - [Zixuan Han, Kangjun Peng, Jianing Mi, **Xiang Chen**.*Research on Shrinking City Identification Based on Unsupervised Learning Method--A Case Study of 9 Prefecture-Level Cities in Guangdong-Hong Kong-Macao Greater Bay Area*.Journal of Public Administration,2020,13(02):76-93+196](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=GGXZ202002007)
+      
+      韩梓轩,彭康珺,米加宁,**陈翔**.基于无监督学习方法的收缩城市识别研究——以粤港澳大湾区9座地级市为例[J].公共行政评论,2020,13(02):76-93+196.
+
+
 
