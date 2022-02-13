@@ -31,8 +31,8 @@
     
       韩梓轩,彭康珺,米加宁,**陈翔**.基于无监督学习方法的收缩城市识别研究——以粤港澳大湾区9座地级市为例[J].公共行政评论,2020,13(02):76-93+196.
      - Xiang Chen, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
-     - Chunnan Wang, Xiang Chen, Junzhe Wang, Hongzhi Wang. ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework.(submitted to CVPR 2022, now under review)
-     - Chunnan Wang, Chen Liang, Xiang Chen, Hongzhi Wang. Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model.(submitted to journal Pattern Recognition, now under review)
+     - Chunnan Wang, Xiang Chen, Junzhe Wang, Hongzhi Wang. .(submitted to CVPR 2022, now under review)
+     - Chunnan Wang, Chen Liang, Xiang Chen, Hongzhi Wang. .(submitted to journal Pattern Recognition, now under review)
 #    
 
 
