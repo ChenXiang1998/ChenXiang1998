@@ -2,20 +2,18 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ChenXiang1998)
 
-- 🎓 I am a postgraduate student student at [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
+- 🎓 I am a PhD student at [Delft University of Technology](https://www.tudelft.nl/) and I have obtained M.Sc and B.Eng in Computer Science and Technology in [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
 
   My major is computer science and technology, and my main field is data science and big data.
 
 - 🔭 **Reseach-wise**, I mainly focus on:
     - Automated Machine Learning(AutoML)
     - ML Interpretability or XAI(Explainable Artificial Intelligence)
-    - Causal inference
     - Artificial intelligence in medicine
-    - Anomaly detection
     - Data science
 
 - 😄 **I am open to**:
-    - collaboration opportunities (anytime & anywhere & any type)
+    - collaboration opportunities
     - research internships
 
 - 📫 **Contact me by**:
@@ -26,17 +24,16 @@
     - [Semantic Scholar](https://www.semanticscholar.org/author/Xiang-Chen/2143735745)
 
 - 🗣️ **Language**:
-    - Chinese, English, Japanese, Russian, Korean, Arabic, German
+    - Chinese, English, Japanese, German
     - Python, R, Matlab, Java, C
 
 - 💬 **News, Journals and Conferences**:
-    - Chunnan Wang, **Xiang Chen**, Junzhe Wang, Hongzhi Wang. ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework.(CVPR 2022 has accepted)
+    - Chunnan Wang, **Xiang Chen**, Junzhe Wang, Hongzhi Wang. [ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.html).CVPR, 2022: 6563-6572.
      - Xiang Chen, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
-     - Chunnan Wang, Chen Liang, **Xiang Chen**, Hongzhi Wang. TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model.(submitted to journal *Pattern Recognition*, now under review)[[Link](https://arxiv.org/abs/2201.02941)]
-     - Zixuan Han, Kangjun Peng, Jianing Mi, **Xiang Chen**.[Research on Shrinking City Identification Based on Unsupervised Learning Method--A Case Study of 9 Prefecture-Level Cities in Guangdong-Hong Kong-Macao Greater Bay Area](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=GGXZ202002007).Journal of Public Administration,2020,13(02):76-93+196]
-     (韩梓轩,彭康珺,米加宁,**陈翔**.基于无监督学习方法的收缩城市识别研究——以粤港澳大湾区9座地级市为例[J].公共行政评论,2020,13(02):76-93+196.)
-     - Xinyue Shao, **Xiang Chen**, Xiao Zhu, Hongzhi Wang. ....(submitted to NeuralIPS 2022, now under review)
-     - Chunnan Wang, **Xiang Chen**, Hongzhi Wang.....(submitted to ICDE 2022, now under review)
+     - Chunnan Wang, Chen Liang, **Xiang Chen**, Hongzhi Wang. [TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model](https://arxiv.org/abs/2201.02941).(submitted to journal *Pattern Recognition*, now under review)
+     - Zixuan Han, Kangjun Peng, Jianing Mi, **Xiang Chen**.[Research on Shrinking City Identification Based on Unsupervised Learning Method--A Case Study of 9 Prefecture-Level Cities in Guangdong-Hong Kong-Macao Greater Bay Area](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=GGXZ202002007).Journal of Public Administration,2020,13(02):76-93+196
+     - Xinyue Shao, Hongzhi Wang, **Xiang Chen**, Xiao Zhu. CUBE:....(submitted to NeuralIPS 2022, now under review)
+     - Chunnan Wang, Junzhe Wang, **Xiang Chen**, Hongzhi Wang, Xintong Song. Efﬁcient CTR Model Selection and Hyperparameter Setting Based on Meta-Learning.(submitted to ICDE 2023, now under review)
 #    
 
 
