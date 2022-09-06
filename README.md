@@ -2,7 +2,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ChenXiang1998)
 
-- 🎓 I am a PhD student at [Delft University of Technology](https://www.tudelft.nl/) and I have obtained M.Sc and B.Eng in Computer Science and Technology in [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
+- 🎓 I am now applying for Ph.D. student positions and I have obtained M.Sc and B.Eng in Computer Science and Technology in [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
 
   My major is computer science and technology, and my main field is data science and big data.
 
