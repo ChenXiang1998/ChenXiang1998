@@ -2,11 +2,11 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ChenXiang1998)
 
-- 🎓 I am now a Ph.D. student in a Ph.D. student in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
+- 🎓 I am now a Ph.D. student in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
   
-  I have obtained M.Sc and B.Eng in Computer Science and Technology in [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
+  I have obtained M.Sc and B.Eng degrees in Computer Science and Technology in [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
 
-  My major is computer science and technology, and my main field is data science and big data.
+  My major is computer science and technology.
 
 - 🔭 **Reseach-wise**, I mainly focus on:
     - ML Interpretability or XAI(Explainable Artificial Intelligence)
