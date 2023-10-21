@@ -31,12 +31,13 @@
 
 - 💬 **News, Journals and Conferences**:
     - Chunnan Wang, **Xiang Chen**, Junzhe Wang, Hongzhi Wang. [ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.html).CVPR, 2022: 6563-6572.
-    - **Xiang Chen**, Jiamu Xie, Zixin Wang, Bohui Shen, Zhixuan Zhou. How we express ourselves freely: Censorship, self-censorship, and anti-censorship on a Chinese social media. (iConference 2023 has accepted)
-    - Xiang Chen, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
-    - Chunnan Wang, Chen Liang, **Xiang Chen**, Hongzhi Wang. [TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model](https://arxiv.org/abs/2201.02941).(submitted to journal *Pattern Recognition*, now under review)
+    - **Xiang Chen**, Jiamu Xie, Zixin Wang, Bohui Shen, Zhixuan Zhou. [How we express ourselves freely: Censorship, self-censorship, and anti-censorship on a Chinese social media](https://link.springer.com/chapter/10.1007/978-3-031-28032-0_8). iConference 2023: Information for a Better World: Normality, Virtuality, Physicality, Inclusivity.
+    - **Xiang Chen**, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
+    - Xinyue Shao, **Xiang Chen**, Xiao Zhu, Yan Zhang, Hongzhi Wang. CUBE: A Causal Interventionbased Counterfactual Interpretation Method. in *IEEE Transactions on Knowledge and Data Engineering*, doi: 10.1109/TKDE.2023.3322126.
+    - Chunnan Wang, Chen Liang, **Xiang Chen**, Hongzhi Wang. [TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model]([https://arxiv.org/abs/2201.02941](https://www.sciencedirect.com/science/article/pii/S0031320323002595)).In: *Pattern Recognition*, Volume 140, 2023, 109559, ISSN 0031-3203
     - Zixuan Han, Kangjun Peng, Jianing Mi, **Xiang Chen**.[Research on Shrinking City Identification Based on Unsupervised Learning Method--A Case Study of 9 Prefecture-Level Cities in Guangdong-Hong Kong-Macao Greater Bay Area](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=GGXZ202002007).Journal of Public Administration,2020,13(02):76-93+196
-    - Xinyue Shao, **Xiang Chen**, Xiao Zhu, Hongzhi Wang. CUBE: A Causal Intervention-based Counterfactual Interpretation Method.(submitted to submitted to journal IEEE Transactions on Knowledge and Data Engineering, now under review)
-    - Chunnan Wang, Junzhe Wang, **Xiang Chen**, Hongzhi Wang, Xintong Song. Efﬁcient CTR Model Selection and Hyperparameter Setting Based on Meta-Learning.(submitted to WWW 2023, now under review)
+    - Z Shi, Z Zhou, A Choudhry, M Wei, **X Chen**, [B Shen. Ethical concerns of COVID-19 contact tracing: a narrative review](https://www.ideals.illinois.edu/items/126865). 25th International Conference on Human-Computer Interaction,2023
+    - Chunnan Wang, Junzhe Wang, **Xiang Chen**, Hongzhi Wang, Xintong Song. Efﬁcient CTR Model Selection and Hyperparameter Setting Based on Meta-Learning.(under review)
 #    
 
 
