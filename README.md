@@ -1,6 +1,5 @@
 ### Hi there 👋 , I'm ChenXiang(陈翔/ʈʂʰə́n ɕáŋ/ in Chinese)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/ChenXiang1998)
 
 - 🎓 I am now a Ph.D. student in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
   
@@ -26,8 +25,8 @@
     - [Semantic Scholar](https://www.semanticscholar.org/author/Xiang-Chen/2143735745)
 
 - 🗣️ **Language**:
-    - Chinese, English, Japanese, German
-    - Python, R, Matlab, Java, C
+    - Chinese, English, Japanese, Arabic, German, Sanskrit...
+    - Python, R, Matlab, C
 
 - 💬 **News, Journals and Conferences**:
     - Chunnan Wang, **Xiang Chen**, Junzhe Wang, Hongzhi Wang. [ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.html).CVPR, 2022: 6563-6572.
