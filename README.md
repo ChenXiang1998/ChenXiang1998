@@ -1,25 +1,24 @@
 ### Hi there 👋 , I'm ChenXiang(陈翔/ʈʂʰə́n ɕáŋ/ in Chinese)
 
 
-- 🎓 I am now a Ph.D. student in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
+- 🎓 I am now a Ph.D. student (2023.1-2026) in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
   
-  I have obtained M.Sc and B.Eng degrees in Computer Science and Technology in [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
+  I have obtained M.Sc (2022.6) and B.Eng (2020.6) degrees in Computer Science and Technology, and a minor B.M. degree (2020.6) in Big Data Management and Application in [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
 
-  My major is computer science and technology.
+  My major is Computer Science and Statistics.
 
 - 🔭 **Reseach-wise**, I mainly focus on:
-    - Time series analysis and spatial-temporal Analysis
+    - Time series analysis and spatial-temporal analysis
     - Public health and AI in medicine
-    - ML Interpretability or XAI(Explainable Artificial Intelligence)
-    - Automated Machine Learning(AutoML)
-    - Data science
+    - ML Interpretability or XAI (Explainable Artificial Intelligence)
+    - Automated Machine Learning (AutoML)
 
 - 😄 **I am open to**:
     - collaboration opportunities
     - research internships
 
 - 📫 **Contact me by**:
-    - Email: 20S003052(at)stu(dot)hit(dot)edu(dot)cn, xiang.chen(at)kaust(dot)edu(dot)sa
+    - Email: xiang.chen(at)kaust(dot)edu(dot)sa; 20S003052(at)stu(dot)hit(dot)edu(dot)cn
     - [Homepage](https://chenxiang1998.github.io/)
     - [Bilibili:「翔翔的学习频道」](https://space.bilibili.com/1586658)
     - [Google Scholar](https://scholar.google.com.hk/citations?user=-_-FfdQAAAAJ&hl=zh-CN)
