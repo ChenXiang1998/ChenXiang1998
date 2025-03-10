@@ -42,8 +42,8 @@
     - **Xiang Chen**, Jiamu Xie, Zixin Wang, Bohui Shen, Zhixuan Zhou. [How we express ourselves freely: Censorship, self-censorship, and anti-censorship on a Chinese social media](https://link.springer.com/chapter/10.1007/978-3-031-28032-0_8). iConference 2023: Information for a Better World: Normality, Virtuality, Physicality, Inclusivity.
     - Z Shi, Z Zhou, A Choudhry, M Wei, **X Chen**, B Shen. [Ethical concerns of COVID-19 contact tracing: a narrative review](https://www.ideals.illinois.edu/items/126865). 25th International Conference on Human-Computer Interaction,2023
 4. **Explainable Machine Learning**
-    - Xinyue Shao, Hongzhi Wang, **Xiang Chen**, Xiao Zhu, Yan Zhang. [CUBE: A Causal Interventionbased Counterfactual Interpretation Method](https://ieeexplore.ieee.org/abstract/document/10272685). in *IEEE Transactions on Knowledge and Data Engineering*, doi: 10.1109/TKDE.2023.3322126. $_{\text{But who stole my second-author position?}}$ 
-6. **Cluster Analysis and Unsupervised Machine Learning**
+    - Xinyue Shao, Hongzhi Wang, **Xiang Chen**, Xiao Zhu, Yan Zhang. [CUBE: A Causal Interventionbased Counterfactual Interpretation Method](https://ieeexplore.ieee.org/abstract/document/10272685). in *IEEE Transactions on Knowledge and Data Engineering*, doi: 10.1109/TKDE.2023.3322126. (But who stole my second-author position?😜)
+5. **Cluster Analysis and Unsupervised Machine Learning**
     - Zixuan Han, Kangjun Peng, Jianing Mi, **Xiang Chen**.[Research on Shrinking City Identification Based on Unsupervised Learning Method--A Case Study of 9 Prefecture-Level Cities in Guangdong-Hong Kong-Macao Greater Bay Area](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=GGXZ202002007).Journal of Public Administration,2020,13(02):76-93+196
 
 - 💬 **Conference and Summer School**:
