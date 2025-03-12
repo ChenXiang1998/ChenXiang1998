@@ -35,7 +35,7 @@
     - Chunnan Wang, Junzhe Wang, **Xiang Chen**, Xintong Song, Tianyu Mu, Hongzhi Wang. Meta-learning Based CTR Algorithm Selection and Hyperparameter Optimization. ICDE 2025
 2. **Disease Forecasting, Spatial Statistics, Time Series and Public Health**
     - **Xiang Chen**, Paula Moraga. [Assessing dengue forecasting methods: A comparative study of statistical models and machine learning techniques in Rio de Janeiro, Brazil](https://www.medrxiv.org/content/10.1101/2024.06.12.24308827v1). Accepted in *Tropical Medicine and Health*.
-    - **Xiang Chen**, Paula Moraga. [Forecasting Dengue across Brazil with LSTM Neural Networks and SHAP-Driven Lagged Climate and Spatial Effects](https://www.medrxiv.org/content/10.1101/2024.12.11.24318832v1). Accepted in *BMC Public Health*.
+    - **Xiang Chen**, Paula Moraga. [Forecasting Dengue across Brazil with LSTM Neural Networks and SHAP-Driven Lagged Climate and Spatial Effects](https://link.springer.com/article/10.1186/s12889-025-22106-7). BMC Public Health 25, 973 (2025). https://doi.org/10.1186/s12889-025-22106-7.
     - **Xiang Chen**, Paula Moraga. [Dengue forecasting and outbreak detection in Brazil using LSTM: integrating human mobility and climate factors](https://www.medrxiv.org/content/10.1101/2024.12.11.24318832v1). Submitted to some Journal.
     - **Xiang Chen**, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
 3. **AI Ethics**
