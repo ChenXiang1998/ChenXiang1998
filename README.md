@@ -34,9 +34,9 @@
     - Chunnan Wang, Chen Liang, **Xiang Chen**, Hongzhi Wang. [TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model](https://www.sciencedirect.com/science/article/pii/S0031320323002595).In: *Pattern Recognition*, Volume 140, 2023, 109559, ISSN 0031-3203
     - Chunnan Wang, Junzhe Wang, **Xiang Chen**, Xintong Song, Tianyu Mu, Hongzhi Wang. Meta-learning Based CTR Algorithm Selection and Hyperparameter Optimization. ICDE 2025
 2. **Disease Forecasting, Spatial Statistics, Time Series and Public Health**
-    - **Xiang Chen**, Paula Moraga. [Assessing dengue forecasting methods: A comparative study of statistical models and machine learning techniques in Rio de Janeiro, Brazil](https://www.medrxiv.org/content/10.1101/2024.06.12.24308827v1). Accepted in *Tropical Medicine and Health*.
-    - **Xiang Chen**, Paula Moraga. [Forecasting Dengue across Brazil with LSTM Neural Networks and SHAP-Driven Lagged Climate and Spatial Effects](https://link.springer.com/article/10.1186/s12889-025-22106-7). BMC Public Health 25, 973 (2025). https://doi.org/10.1186/s12889-025-22106-7.
-    - **Xiang Chen**, Paula Moraga. [Dengue forecasting and outbreak detection in Brazil using LSTM: integrating human mobility and climate factors](https://www.medrxiv.org/content/10.1101/2024.12.11.24318832v1). Submitted to some Journal.
+    - **Xiang Chen**, Paula Moraga. [Assessing dengue forecasting methods: A comparative study of statistical models and machine learning techniques in Rio de Janeiro, Brazil](https://tropmedhealth.biomedcentral.com/articles/10.1186/s41182-025-00723-7). Tropical Medicine and Health. 53, 52 (2025). doi: 10.1186/s41182-025-00723-7.
+    - **Xiang Chen**, Paula Moraga. [Forecasting Dengue across Brazil with LSTM Neural Networks and SHAP-Driven Lagged Climate and Spatial Effects](https://link.springer.com/article/10.1186/s12889-025-22106-7). BMC Public Health. 25, 973 (2025). doi: 10.1186/s12889-025-22106-7.
+    - **Xiang Chen**, Paula Moraga. [Dengue forecasting and outbreak detection in Brazil using LSTM: integrating human mobility and climate factors](https://www.medrxiv.org/content/10.1101/2024.12.11.24318832v1). Under Review.
     - **Xiang Chen**, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
 3. **AI Ethics**
     - **Xiang Chen**, Jiamu Xie, Zixin Wang, Bohui Shen, Zhixuan Zhou. [How we express ourselves freely: Censorship, self-censorship, and anti-censorship on a Chinese social media](https://link.springer.com/chapter/10.1007/978-3-031-28032-0_8). iConference 2023: Information for a Better World: Normality, Virtuality, Physicality, Inclusivity.
@@ -49,6 +49,10 @@
 - 💬 **Conference and Summer School**:
   - 2024.9.2-5: RSS International Conference 2024, the UK’s annual showcase for statistics & data science. Brighton, UK
   - 2024.9.23-27: IWR summer school, Applied Modeling of Climate-Sensitive Infectious Diseases. Universität Heidelberg, Germany
+
+- 🔎 **Reviewer**:
+  - *Spatial And Spatio-temporal Epidemiology*, October 2024
+  - *International Journal of Biometeorology*, April 2025
 #    
 
 
