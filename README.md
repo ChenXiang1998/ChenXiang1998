@@ -1,7 +1,7 @@
 ### Hi there 👋 , I'm Chen Xiang (陈翔/ʈʂʰə́n ɕáŋ/ in Chinese Mandarin)
 
 
-- 🎓 I am now a Ph.D. student (2023.1-2026) in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
+- 🎓 I am now a Ph.D. candidate (2023.1 - 2026.6) in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
   
   I have obtained M.Sc (2022.6) and B.Eng (2020.6) degrees in Computer Science and Technology, and a minor B.M. degree (2020.6) in Big Data Management and Application in [Harbin Institute of Technology(HIT)](http://www.hit.edu.cn).
 
