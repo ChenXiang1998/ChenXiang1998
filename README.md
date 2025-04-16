@@ -1,4 +1,4 @@
-### Hi there 👋 , I'm Chen Xiang (陈翔/ʈʂʰə́n ɕáŋ/ in Chinese Mandarin)
+### Hi there 👋 , I'm Xiang Chen (陈翔/ʈʂʰə́n ɕáŋ/ in Chinese Mandarin)
 
 
 - 🎓 I am now a Ph.D. candidate (2023.1 - 2026.6) in [King Abdullah University of Science and Technology (KAUST)](https://www.kaust.edu.sa/en).
@@ -51,7 +51,7 @@
   - 2024.9.23-27: IWR summer school, Applied Modeling of Climate-Sensitive Infectious Diseases. Universität Heidelberg, Germany
 
 - 🔎 **Reviewer**:
-  - *Spatial And Spatio-temporal Epidemiology*, October 2024
+  - *Spatial and Spatio-temporal Epidemiology*, October 2024
   - *International Journal of Biometeorology*, April 2025
 #    
 
