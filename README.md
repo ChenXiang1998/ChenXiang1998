@@ -38,12 +38,15 @@
     - **Xiang Chen**, Paula Moraga. [Forecasting Dengue across Brazil with LSTM Neural Networks and SHAP-Driven Lagged Climate and Spatial Effects](https://link.springer.com/article/10.1186/s12889-025-22106-7). BMC Public Health. 25, 973 (2025). doi: 10.1186/s12889-025-22106-7.
     - **Xiang Chen**, Paula Moraga. [Dengue forecasting and outbreak detection in Brazil using LSTM: integrating human mobility and climate factors](https://www.medrxiv.org/content/10.1101/2024.12.11.24318832v1). Under Review.
     - **Xiang Chen**, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
-3. **AI Ethics**
+3. **Psychology, Cohort analysis, Cross-sectional and longitudinal data analysis**
+    - Hongyu Zou, **Xiang Chen**†, Wei Zhang. Protective and Risk Factors in Adolescent Depression Using Machine Learning and External Validation in Two Large Population-Based Cohort. submitted to: _Journal of Child Psychology and Psychiatry_ (Under Review)    
+      <small>(†Co-first author. Provided all technical support.)<small>
+4. **AI Ethics**
     - **Xiang Chen**, Jiamu Xie, Zixin Wang, Bohui Shen, Zhixuan Zhou. [How we express ourselves freely: Censorship, self-censorship, and anti-censorship on a Chinese social media](https://link.springer.com/chapter/10.1007/978-3-031-28032-0_8). iConference 2023: Information for a Better World: Normality, Virtuality, Physicality, Inclusivity.
     - Z Shi, Z Zhou, A Choudhry, M Wei, **X Chen**, B Shen. [Ethical concerns of COVID-19 contact tracing: a narrative review](https://www.ideals.illinois.edu/items/126865). 25th International Conference on Human-Computer Interaction,2023
-4. **Explainable Machine Learning**
+5. **Explainable Machine Learning**
     - Xinyue Shao, Hongzhi Wang, **Xiang Chen**, Xiao Zhu, Yan Zhang. [CUBE: A Causal Interventionbased Counterfactual Interpretation Method](https://ieeexplore.ieee.org/abstract/document/10272685). in *IEEE Transactions on Knowledge and Data Engineering*, doi: 10.1109/TKDE.2023.3322126. (But who stole my second-author position?😜)
-5. **Cluster Analysis and Unsupervised Machine Learning**
+6. **Cluster Analysis and Unsupervised Machine Learning**
     - Zixuan Han, Kangjun Peng, Jianing Mi, **Xiang Chen**.[Research on Shrinking City Identification Based on Unsupervised Learning Method--A Case Study of 9 Prefecture-Level Cities in Guangdong-Hong Kong-Macao Greater Bay Area](https://kns.cnki.net/KCMS/detail/detail.aspx?dbcode=CJFD&filename=GGXZ202002007).Journal of Public Administration,2020,13(02):76-93+196
 
 - 💬 **Conference and Summer School**:
