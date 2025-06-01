@@ -33,12 +33,13 @@
     - Chunnan Wang, **Xiang Chen**, Junzhe Wang, Hongzhi Wang. [ATPFL: Automatic Trajectory Prediction Model Design under Federated Learning Framework](https://openaccess.thecvf.com/content/CVPR2022/html/Wang_ATPFL_Automatic_Trajectory_Prediction_Model_Design_Under_Federated_Learning_Framework_CVPR_2022_paper.html).CVPR, 2022: 6563-6572.
     - Chunnan Wang, Chen Liang, **Xiang Chen**, Hongzhi Wang. [TPAD: Identifying Effective Trajectory Predictions Under the Guidance of Trajectory Anomaly Detection Model](https://www.sciencedirect.com/science/article/pii/S0031320323002595).In: *Pattern Recognition*, Volume 140, 2023, 109559, ISSN 0031-3203
     - Chunnan Wang, Junzhe Wang, **Xiang Chen**, Xintong Song, Tianyu Mu, Hongzhi Wang. Meta-learning Based CTR Algorithm Selection and Hyperparameter Optimization. ICDE 2025
-2. **Disease Forecasting, Spatial Statistics, Time Series and Public Health**
+2. **Disease Forecasting, Spatio-temporal Modeling, Time Series and Public Health**
     - **Xiang Chen**, Paula Moraga. [Assessing dengue forecasting methods: A comparative study of statistical models and machine learning techniques in Rio de Janeiro, Brazil](https://tropmedhealth.biomedcentral.com/articles/10.1186/s41182-025-00723-7). Tropical Medicine and Health. 53, 52 (2025). doi: 10.1186/s41182-025-00723-7.
     - **Xiang Chen**, Paula Moraga. [Forecasting Dengue across Brazil with LSTM Neural Networks and SHAP-Driven Lagged Climate and Spatial Effects](https://link.springer.com/article/10.1186/s12889-025-22106-7). BMC Public Health. 25, 973 (2025). doi: 10.1186/s12889-025-22106-7.
     - **Xiang Chen**, Paula Moraga. [Dengue forecasting and outbreak detection in Brazil using LSTM: integrating human mobility and climate factors](https://www.medrxiv.org/content/10.1101/2024.12.11.24318832v1). Under Review.
+    - **Xiang Chen**, Paula Moraga. [Spatio-temporal dynamics of leptospirosis in Brazil between 2010 and 2023: identifying high-risk regions and gender-specific patterns](https://www.medrxiv.org/content/10.1101/2025.05.24.25328285v1). Under Review.
     - **Xiang Chen**, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
-3. **Psychology, Cohort analysis, Cross-sectional and longitudinal data analysis**
+3. **Psychology, Cohort Analysis, Cross-sectional and Longitudinal Data Analysis**
     - Hongyu Zou, **Xiang Chen**†, Wei Zhang. Protective and Risk Factors in Adolescent Depression Using Machine Learning and External Validation in Two Large Population-Based Cohort. submitted to: _Journal of Child Psychology and Psychiatry_ (Under Review)    
       <small>(†Co-first author. Provided all technical support.)<small>
 4. **AI Ethics**
