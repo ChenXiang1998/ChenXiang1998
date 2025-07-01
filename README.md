@@ -59,6 +59,7 @@
   - *International Journal of Biometeorology*, April 2025
   - *Ecological Modelling*, May 2025
   - *Journal of Applied Mathematics and Physics*, June 2025
+  - *Epidemics*, July 2025
 #    
 
 
