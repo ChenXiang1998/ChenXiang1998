@@ -53,6 +53,7 @@
 - 💬 **Conference and Summer School**:
   - 2024.9.2-5: RSS International Conference 2024, the UK’s annual showcase for statistics & data science. Brighton, UK
   - 2024.9.23-27: IWR summer school, Applied Modeling of Climate-Sensitive Infectious Diseases. Universität Heidelberg, Germany
+  - 2025.6.21-6.30: MIDSEA (Modelling Infectious Diseases in South East Asia) Summer School. Yogyakarta, Indonesia
 
 - 🔎 **Reviewer**:
   - *Spatial and Spatio-temporal Epidemiology*, October 2024
