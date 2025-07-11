@@ -62,6 +62,7 @@
   - *Journal of Applied Mathematics and Physics*, June 2025
   - *Epidemics*, July 2025
   - *PLOS ONE*, July 2025
+  - *Infection Ecology & Epidemiology*, July 2025
 #    
 
 
