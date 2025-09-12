@@ -63,6 +63,7 @@
   - *Epidemics*, July 2025
   - *PLOS ONE*, July 2025
   - *Infection Ecology & Epidemiology*, July 2025
+  - *Communications Earth & Environment*, Sept, 2025
 #    
 
 
