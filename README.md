@@ -36,7 +36,7 @@
 2. **Disease Forecasting, Spatio-temporal Modeling, Time Series and Public Health**
     - **Xiang Chen**, Paula Moraga. [Assessing dengue forecasting methods: A comparative study of statistical models and machine learning techniques in Rio de Janeiro, Brazil](https://tropmedhealth.biomedcentral.com/articles/10.1186/s41182-025-00723-7). Tropical Medicine and Health. 53, 52 (2025). doi: 10.1186/s41182-025-00723-7.
     - **Xiang Chen**, Paula Moraga. [Forecasting Dengue across Brazil with LSTM Neural Networks and SHAP-Driven Lagged Climate and Spatial Effects](https://link.springer.com/article/10.1186/s12889-025-22106-7). BMC Public Health. 25, 973 (2025). doi: 10.1186/s12889-025-22106-7.
-    - **Xiang Chen**, Paula Moraga. [Dengue forecasting and outbreak detection in Brazil using LSTM: integrating human mobility and climate factors](https://www.medrxiv.org/content/10.1101/2024.12.11.24318832v1). Under Review.
+    - **Xiang Chen**, Paula Moraga. [Dengue forecasting and outbreak detection in Brazil using LSTM: integrating human mobility and climate factors](https://www.sciencedirect.com/science/article/pii/S2468042725001150). Infectious Disease Modelling, 11(1), 2026
     - **Xiang Chen**, Paula Moraga. [Spatio-temporal dynamics of leptospirosis in Brazil between 2010 and 2023: identifying high-risk regions and gender-specific patterns](https://www.medrxiv.org/content/10.1101/2025.05.24.25328285v1). Under Review.
     - **Xiang Chen**, Hongzhi Wang. [Data-Driven Prediction of Foodborne Disease Pathogens](https://link.springer.com/chapter/10.1007/978-981-16-5940-9_8). In:Data Science. ICPCSEE 2021. Communications in Computer and Information Science, vol 1451. Springer, Singapore.
 3. **Psychology, Cohort Analysis, Cross-sectional and Longitudinal Data Analysis**
@@ -66,6 +66,7 @@
   - *Infection Ecology & Epidemiology*, July 2025
   - *Communications Earth & Environment*, Sept. 2025
   - *Scientific Reports*, Nov. 2025
+  - *Infectious Diseases of Poverty*, Nov. 2025
 #    
 
 
